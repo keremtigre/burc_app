@@ -8,8 +8,8 @@
 
 | Paketler |Pub.dev|
 | ------ | ------ |
-| Flutter Share | [https://pub.dev/packages/share][PlDb] |
-| Palette Generator | [https://pub.dev/packages/palette_generator][PlGh] |
+| Flutter Share | https://pub.dev/packages/share |
+| Palette Generator | https://pub.dev/packages/palette_generator |
 ## Uygulamadan Bazı İçerikler
 
 ![burc_app_gif(1)](https://user-images.githubusercontent.com/47521147/139951492-4ce57d3b-9852-4983-b12f-6cc69703b94a.gif)
