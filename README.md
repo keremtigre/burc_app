@@ -1,4 +1,8 @@
 ## MyBurcApp
+
+
+**12 burç hakkında bilgilerin olduğu,flutter ile yazılmış android uygulamasıdır.**
+
 - Flutter_share 2.0.0 
 - Palette_generator
 
